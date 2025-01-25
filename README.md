@@ -29,9 +29,9 @@ A Python script using the Instagrapi library to automatically follow users from 
 
 1. Create a `.env` file in the project root with the following variables:
 
-INSTAGRAM_USERNAME=your_username
-INSTAGRAM_PASSWORD=your_password
-TARGET_INSTAGRAM_USERNAME=target_account
+- INSTAGRAM_USERNAME=your_username
+- INSTAGRAM_PASSWORD=your_password
+- TARGET_INSTAGRAM_USERNAME=target_account
 
 2. (Optional) To use a proxy, uncomment and configure the proxy settings in the script.
 
